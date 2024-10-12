@@ -4,6 +4,7 @@ from trainer import *
 from utils.data_load_transform import *
 import os
 from torch.utils.data import DataLoader
+from config import path_cfg
 
 parser = argparse.ArgumentParser(description="Ruixuan Zhang")
 parser.add_argument('--save_path', type=str, default='./output',
