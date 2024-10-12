@@ -7,12 +7,8 @@ ISSLIDE dataset can be accessed from IEEE Dataport  [here](https://ieee-dataport
 the data used to verify the model's generalization ability can be obtained from the COMET-LiCS Sentinel-1 InSAR portal  [here](https://comet.nerc.ac.uk/COMET-LiCS-portal/).
 
 
-The data used to train MB-Net can be obtained from the cloud storage
+The data used to train MB-Net can be obtained from the cloud storage[here](https://pan.baidu.com/s/1D7yj3SkyBuepr0AyiDMbhA?pwd=6666)
 
-```bash
-Link: https://pan.baidu.com/s/1D7yj3SkyBuepr0AyiDMbhA?pwd=6666
-Password: 6666 
-```
 
 
 ### Environment Setup
